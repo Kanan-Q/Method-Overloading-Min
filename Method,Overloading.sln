@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method,Overloading", "Method,Overloading\Method,Overloading.csproj", "{4B45B212-59E7-4948-8976-D0B669FCD06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B45B212-59E7-4948-8976-D0B669FCD06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B45B212-59E7-4948-8976-D0B669FCD06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B45B212-59E7-4948-8976-D0B669FCD06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B45B212-59E7-4948-8976-D0B669FCD06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC3DB6FA-3E51-422F-ADEE-71F4BAA6A5E7}
+	EndGlobalSection
+EndGlobal
